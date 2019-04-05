@@ -1,0 +1,50 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+
+h5 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h2 i {
+  color:rgb(247, 37, 212);
+  font-size: 80px;
+}
+
+.chifourmi {
+ width: 100%;
+ height: auto;
+ margin-bottom: 20px;
+
+}
+
+.memory {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+ 
+ }
+
+ .button {
+
+  background-color: rgb(243, 78, 13)
+ }
+
+ .francky {
+   color:rgb(39, 26, 21) !important;
+  font-size: 20px;
+
+ }
